@@ -1,0 +1,102 @@
+header{
+    
+    border: 5px;
+    border-style: solid;
+    border-color black;
+    height: 200px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-end;
+    align-content: stretch;
+    
+}
+
+.purpleContainer{
+height: 100px;
+width: 30px;
+background-color: purple;
+margin: 10px;
+}
+
+.greenContainer{
+
+height: 180px;
+width: 500px;
+background-color: green;
+margin: 10px;
+
+}
+
+.cyanCircle{
+
+height: 180px;
+width: 220px;
+background-color: cyan;
+border-radius: 100%;
+margin: 10px;
+
+
+}
+
+section{
+    
+    margin-top: 50px;
+    border: 5px;
+    border-style: dotted;
+    border-color: black;
+    height: 300px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+    }
+    
+    .beigeContainer{
+
+        height: 180px;
+        width: 80%;
+        background-color: beige;
+        margin: 10px;
+        box-shadow: 5px 10px #888888;
+        
+        }
+
+    footer{
+
+        margin-top: 50px;
+        border: 5px;
+        border-color: white;
+        height: 300px;
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        align-content: stretch;
+        }
+
+        .helloFriendsBox{
+            border: 5px;
+            border-style: solid;
+            border-color: rgb(233, 233, 233);
+            height: 290px;
+            width: 40%;
+            box-shadow: 1px 10px #888888;
+          
+                      
+            }
+
+            P{
+                padding-top: 100px;
+                text-align: center;
+                font-family: 'Oswald', sans-serif;
+                color: blue;
+                font-size: 30px;
+            }
